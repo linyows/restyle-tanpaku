@@ -380,4 +380,8 @@ important;
     height: 25px!important;
     padding: 0!important;
   }
+  a[href="http://calamel.jp/"],
+  a[href="http://calamel.jp/"] + br {
+    display: none!important;
+  }
 }
