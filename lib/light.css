@@ -381,7 +381,9 @@ important;
     padding: 0!important;
   }
   a[href="http://calamel.jp/"],
-  a[href="http://calamel.jp/"] + br {
+  a[href="http://calamel.jp/"] + br,
+  a[href="http://calamel-books.jp/"],
+  a[href="http://calamel-books.jp/"] + br {
     display: none!important;
   }
 }
